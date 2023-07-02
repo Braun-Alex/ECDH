@@ -1,4 +1,4 @@
-# Elliptic-curve Diffie Hellman
+# Elliptic-curve Diffie-Hellman
 
 Practise task № 9 for Distributed Lab Course "Cryptography in decentralized systems" 2023.
 
