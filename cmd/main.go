@@ -1,8 +1,8 @@
 package main
 
 import (
-	"ECDH/pkg/ecdh"
 	"fmt"
+	"github.com/Braun-Alex/ECDH/pkg/ecdh"
 	"github.com/Braun-Alex/elliptic-wrapper/pkg/ec"
 )
 

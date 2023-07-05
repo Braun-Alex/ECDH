@@ -1,4 +1,4 @@
-module ECDH
+module github.com/Braun-Alex/ECDH
 
 go 1.19
 

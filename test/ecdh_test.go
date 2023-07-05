@@ -1,7 +1,7 @@
 package test
 
 import (
-	"ECDH/pkg/ecdh"
+	"github.com/Braun-Alex/ECDH/pkg/ecdh"
 	"testing"
 )
 
